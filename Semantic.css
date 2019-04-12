@@ -12,10 +12,10 @@ body {
      width:60%;
     margin: auto;
     background-color: lightcyan;
-    font-family:fantasy
 }
 
 header {
+    font-family: fantasy;
     background-color: lightcyan;/* background color lightcyan */
     color:white; /*text color white */
     text-align: center;/* The header should be center */
@@ -23,11 +23,13 @@ header {
 }
 
 main {
+    font-family: inherit;
     background-color: lightpink;/* background color lightink */
     color:white; /*text color white */
 }
 
 footer {
+    font-family: monospace;
     background-color: lightblue;/* background color lightblue */
     color:darkcyan; /*text color darkcyan */
 }
