@@ -16,20 +16,20 @@ body {
 }
 
 header {
-    background-color: lightcyan;/* background color aquamarine */
-    color:white; /*text color aliceblue */
-    text-align: center;
-    text-shadow:  2px 2px 4px #000000;
+    background-color: lightcyan;/* background color lightcyan */
+    color:white; /*text color white */
+    text-align: center;/* The header should be center */
+    text-shadow:  2px 2px 4px #000000; /* h1 should have a shadow */
 }
 
 main {
-    background-color: lightpink;/* background color aquamarine */
-    color:white; /*text color aliceblue */
+    background-color: lightpink;/* background color lightink */
+    color:white; /*text color white */
 }
 
 footer {
-    background-color: lightblue;/* background color aquamarine */
-    color:darkcyan; /*text color aliceblue */
+    background-color: lightblue;/* background color lightblue */
+    color:darkcyan; /*text color darkcyan */
 }
 
-#D { width:400xpx; height: 350px;}
+#D { width:400xpx; height: 350px;} /* the length of the picture */
