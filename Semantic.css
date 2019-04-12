@@ -9,7 +9,7 @@
 }
 /* Body attributes here */
 body {
-     width:85%;
+     width:60%;
     margin: auto;
     background-color: lightcyan;
     font-family:fantasy
@@ -17,12 +17,14 @@ body {
 
 header {
     background-color: lightcyan;/* background color aquamarine */
-    color:lightcoral; /*text color aliceblue */
+    color:white; /*text color aliceblue */
+    text-align: center;
+    text-shadow:  2px 2px 4px #000000;
 }
 
 main {
     background-color: lightpink;/* background color aquamarine */
-    color:aliceblue; /*text color aliceblue */
+    color:white; /*text color aliceblue */
 }
 
 footer {
