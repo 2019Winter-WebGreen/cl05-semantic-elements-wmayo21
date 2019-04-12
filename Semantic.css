@@ -1,0 +1,33 @@
+/*
+*Wendy Mayo
+*4/12/19
+*HTML Structure & Other Cool Stuff
+*/
+
+/* The universal selector */
+*{
+}
+/* Body attributes here */
+body {
+     width:85%;
+    margin: auto;
+    background-color: lightcyan;
+    font-family:fantasy
+}
+
+header {
+    background-color: lightcyan;/* background color aquamarine */
+    color:lightcoral; /*text color aliceblue */
+}
+
+main {
+    background-color: lightpink;/* background color aquamarine */
+    color:aliceblue; /*text color aliceblue */
+}
+
+footer {
+    background-color: lightblue;/* background color aquamarine */
+    color:darkcyan; /*text color aliceblue */
+}
+
+#D { width:400xpx; height: 350px;}
